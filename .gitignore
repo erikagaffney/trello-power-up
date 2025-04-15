@@ -1,0 +1,9 @@
+# ParcelJS cache folder
+.cache/
+
+# ParcelJS build folder
+dist/
+
+node_modules/
+.env
+.vscode/
